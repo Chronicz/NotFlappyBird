@@ -2,8 +2,8 @@
 A Flappy Bird Clone
 
 # WIP
-Audio
-High Score Storage
+Audio,
+High Score Storage,
 Share
 
 # CS 151 : Final Project
