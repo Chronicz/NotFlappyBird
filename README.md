@@ -6,7 +6,7 @@ Audio
 High Score Storage
 Share
 
-CS 151 : Final Project
+#CS 151 : Final Project
 Soure Code is in the "Script" Folder
 Instructions to run the application:
 1. Go to the Applicaion Folder
